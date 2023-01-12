@@ -240,3 +240,12 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/DownSample/table_scene_lms400_outliers.ply
+/DownSample/table_scene_lms400_outliers.pcd
+/DownSample/table_scene_lms400_inliers.ply
+/DownSample/table_scene_lms400_inliers.pcd
+/DownSample/2.ply
+/DownSample/1.pcd
+/DownSample/051_flitered.ply
+/DownSample/051_downsample.ply
+/DownSample/051.ply
